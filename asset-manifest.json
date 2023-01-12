@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1c2d94b9.js",
+    "static/media/CV_Bilal.pdf": "/static/media/CV_Bilal.80a178f9db9adbe39fb1.pdf",
+    "static/media/pic.png": "/static/media/pic.1a28a79d1b4d5b10b4b1.png",
+    "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/mysql-icon.svg": "/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
+    "static/media/xcodeicon.svg": "/static/media/xcodeicon.5777f0e239f3e8335f64adb2813a0531.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "index.html": "/index.html",
+    "static/media/appstoreicon.svg": "/static/media/appstoreicon.5c1492a239cc1d0e056d79df1d61cdbb.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/vscode-icon.svg": "/static/media/vscode-icon.7bfadaaeba8770093f98a79aa2c77d41.svg",
+    "static/media/swifticon.svg": "/static/media/swifticon.0b9964069362658eb1991d08dde07866.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/figmaicon.svg": "/static/media/figmaicon.cb2d7417dcb86d2831f4ab79f3df7b03.svg",
+    "static/media/firebaseicon.svg": "/static/media/firebaseicon.72001c232f32bf4d25927c7fea813af3.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
+    "main.1c2d94b9.js.map": "/static/js/main.1c2d94b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1c2d94b9.js"
+  ]
+}
