@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9d8e3b4d.js",
-    "static/media/CV_Bilal.pdf": "/static/media/CV_Bilal.80a178f9db9adbe39fb1.pdf",
+    "main.js": "/static/js/main.4ebd54cd.js",
     "static/media/pic.png": "/static/media/pic.1a28a79d1b4d5b10b4b1.png",
+    "static/media/CV_Bilal.pdf": "/static/media/CV_Bilal.e40eba70ae7d714c60cf.pdf",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
     "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
     "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
@@ -24,9 +24,9 @@
     "static/media/firebaseicon.svg": "/static/media/firebaseicon.72001c232f32bf4d25927c7fea813af3.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
-    "main.9d8e3b4d.js.map": "/static/js/main.9d8e3b4d.js.map"
+    "main.4ebd54cd.js.map": "/static/js/main.4ebd54cd.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d8e3b4d.js"
+    "static/js/main.4ebd54cd.js"
   ]
 }
